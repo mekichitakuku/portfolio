@@ -20,15 +20,14 @@ h1.logo{
 	padding: 1px;
 }
 
-h3 {
-	font-family: "maven-pro";
+h2 {
 	text-align: left;
 	padding-left: 150px;
 }
 
 section {
 	float: left;
-	padding-left: 100px;
+	padding-left: 80px;
 	padding-bottom: 200px;
 	text-align: center;
 	
@@ -46,6 +45,7 @@ section a{
 	border: 2px solid #5A66C1; 
 	font-size: 20px;
 }
+
 
 section p {
 	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
